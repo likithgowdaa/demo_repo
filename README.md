@@ -1,1 +1,1 @@
-# demo_repo blah blah
+# demo_repo
